@@ -8,7 +8,7 @@ In this project, we develop a principled uncertainty quantification approach to 
 
 
 ## Requirements
-* Python >= 3.6 (Anaconda3 is recommended)
+* Python >= 3.7 (Anaconda3 is recommended)
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the required packages.
 
